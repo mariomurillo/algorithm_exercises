@@ -1,0 +1,1 @@
+Ths idea with this exercise is count the quantity of occurrences of a word in a sentence doesn't mind if the words appear in Capital case or not, other requirement it's count just only the words and scape the special charecters
